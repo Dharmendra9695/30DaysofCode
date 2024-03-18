@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_30DaysofCode.Array_Program.pro</StartupObject>
+    <StartupObject>_30DaysofCode.Git.swichstatement</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,7 @@
     <Compile Include="Array_Program\asssuioo.cs" />
     <Compile Include="Array_Program\pro.cs" />
     <Compile Include="expression\ex.cs" />
+    <Compile Include="Git\swichstatement.cs" />
     <Compile Include="loop\looping.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="stringsss\str.cs" />
